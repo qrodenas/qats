@@ -14,7 +14,7 @@ The hackathon challenge focuses on the conversion of quantum circuits into the H
 - **CNOT Circuit:** Composed exclusively of CX gates, akin to classical reversible circuits.
 - **Clifford Blocks:** These are circuits controlled classically based on the measurement of ancilla qubits, facilitating the selection of measurement bases.
 
-<img src="images/normal_form" alt="Heyfron-Campbell Normal Form Diagram" title="Diagram of Heyfron-Campbell Normal Form" width="500"/>
+<img src="images/heyfron-campbell.png" alt="Heyfron-Campbell Normal Form Diagram" title="Diagram of Heyfron-Campbell Normal Form" width="500"/>
 
 ### Why is this relevant?
 The Heyfron-Campbell normal form significantly simplifies the quantum computing process by isolating the "classically hard" part to just the diagonal gates. These gates add phases to computational basis states, dependent on ancilla qubits. The structure of this form allows for the optimization of T gates, which are typically the most costly, making everything else primarily Clifford-based and easier to manage.
