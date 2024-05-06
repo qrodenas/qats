@@ -5,7 +5,7 @@ _Team solving the Quantinuum challenge in ETH Quantum Hackathon 2024._
 ![GitHub Release](https://img.shields.io/github/v/release/qrodenas/qats)
 
 ## Overview
-Welcome to the Qats' Github repo! We have passionately worked on the problem of obtaining the Heyfron-Campbell normal form of a quantum circuit. 
+Welcome to the Qats' Github repo! We have passionately worked on the problem of obtaining the Heyfron-Campbell normal form of a quantum circuit. We invite you to check [our presentation](https://docs.google.com/presentation/d/1uQEsKLSRMpEHVJYelKWVjdt7N4jlP8em/edit#slide=id.p1)
 
 ## Challenge Summary
 The hackathon challenge focuses on the conversion of quantum circuits into the Heyfron-Campbell normal form, a crucial element in reducing T gate count in quantum circuits. This optimizes quantum computation, and is crucial for quantum error correction. The form allows us to write the quantum circuit with the following structure:
